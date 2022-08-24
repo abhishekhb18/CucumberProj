@@ -1,0 +1,8 @@
+testrunner\TestRunner.class
+stepDefinitions\backgroundStepdefinitions.class
+stepDefinitions\ConditionalHooksStepDefinitions.class
+stepDefinitions\TagsStepDefinitions.class
+stepDefinitions\Login1StepDefinition.class
+stepDefinitions\Hook_StepDefinition.class
+OwnpracticeCucumber\OwnpracticeCucumber\AppTest.class
+stepDefinitions\DataTableStepdefinitions.class

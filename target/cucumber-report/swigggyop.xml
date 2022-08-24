@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="46.093">
+    <testcase classname="To test the location feature of swiggy application" name="Check if user is able to enter location and navigate" time="17.739">
+        <system-out><![CDATA[Given user is in  swiggy homepage...........................................passed
+When The user enters the location as "bangalore" in search bar..............passed
+Then Selects the first option...............................................passed
+Then User is in restaurant list page........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To test the location feature of swiggy application" name="Check if user is able to enter to desired Restaurant page" time="28.084">
+        <system-out><![CDATA[Given user is in  swiggy homepage...........................................passed
+When The user starts to  enter the "bangalore" location and navigates to restaurant list page.passed
+Then Selects and clicks on  the first restaurant from the restaurant list...passed
+Then User is in restaurant homepage.........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

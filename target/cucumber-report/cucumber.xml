@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="14.275">
+    <testcase classname="login and search for the product" name="Search for a product" time="14.053">
+        <system-out><![CDATA[Given user is in homepage...................................................passed
+When the user is on search page.............................................passed
+Then gives the search term as "Shirts"......................................passed
+And clicks on search icon...................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
